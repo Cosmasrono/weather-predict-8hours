@@ -82,7 +82,7 @@ function App() {
     <div className="App bg-blue-300">
     <div className="bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8">
       <h1 className=' text-blue-600 text-5xl'>Home</h1>
-      <div className="max-w-md mx-auto"><h1 className=' text-2xl text-blue-500 items-center justify-center'>cossi weather predictor Application</h1>
+      <div className="max-w-md mx-auto"><h1 className=' text-2xl text-blue-500 items-center justify-center'>Cossi Weather Application predictor</h1>
         <div className="flex items-center space-x-4">
           <h1 className=' font-bold italic pt-3'>Enhance 8 hrs weather comfortability  </h1>
           <input
