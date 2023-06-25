@@ -79,7 +79,7 @@ function App() {
   };
 
   return (
-    <div className="App">
+    <div className="App bg-blue-300">
     <div className="bg-gray-100 min-h-screen py-12 px-4 sm:px-6 lg:px-8">
       <h1 className=' text-blue-600 text-5xl'>Home</h1>
       <div className="max-w-md mx-auto"><h1 className=' text-2xl text-blue-500 items-center justify-center'>cossi weather predictor Application</h1>

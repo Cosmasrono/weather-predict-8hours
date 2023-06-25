@@ -1,12 +1,14 @@
- .App {
-    background-image: url("https://t4.ftcdn.net/jpg/03/68/39/23/240_F_368392333_6KEiPDjRrbcGLW0LoVCQqapD1ZO0VN4S.jpg");
-    background-repeat: no-repeat;
+ .App{
+     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-
-    height: 80vh;
+    height: 120vh;
     width: 100%;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
 
 }
 
